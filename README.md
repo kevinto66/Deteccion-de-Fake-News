@@ -2,7 +2,7 @@
 Proyecto de Inteligencia Artificial I  
 Kevin Florez — 2201494  
 
-![banner](https://raw.github.com/kevinto66/Deteccion-de-Fake-News/blob/main/Banner2.jpg)
+[![Banner](https://i.postimg.cc/cJ0wtbCk/Banner2.jpg)](https://postimg.cc/rDZKvgS5)
 
 
 ## **Autor**
